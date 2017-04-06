@@ -1,4 +1,4 @@
-def binary_search(A, target):
+def BinarySearch(A, target):
 	lo = 0
 	hi = len(A)
 	count = 0
