@@ -1,3 +1,5 @@
+#generate a list given the number of items to generate and the interval
+#search for a given item through binary search algorithm
 class BinarySearch(list):
 		def __init__(self,a,b):
 			self.a = a
